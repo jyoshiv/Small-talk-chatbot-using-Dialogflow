@@ -1,0 +1,152 @@
+[
+  {
+    "id": "fbd79137-911b-4c24-ab85-002a7912826c",
+    "data": [
+      {
+        "text": "is it the ",
+        "userDefined": false
+      },
+      {
+        "text": "21st of February",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d5627ee-ce5e-4a1b-8260-618dba18a080",
+    "data": [
+      {
+        "text": "tell me is it ",
+        "userDefined": false
+      },
+      {
+        "text": "September 8",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Munich",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ace3344-7625-4069-b509-a80003a49a17",
+    "data": [
+      {
+        "text": "I\u0027d like to know if it\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "January 2018",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aee161ae-dc01-4fda-a220-742834fb47a8",
+    "data": [
+      {
+        "text": "check if it\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Luxembourg",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "807f7190-1cb1-4148-bb34-b338c25ad43d",
+    "data": [
+      {
+        "text": "is it ",
+        "userDefined": false
+      },
+      {
+        "text": "June 19th",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f7f68c5-379f-421d-8e3a-35c6d0a49c75",
+    "data": [
+      {
+        "text": "are we in ",
+        "userDefined": false
+      },
+      {
+        "text": "March 2017",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "141a9a33-ca23-4617-beae-8581a365a0ab",
+    "data": [
+      {
+        "text": "is today ",
+        "userDefined": false
+      },
+      {
+        "text": "28th",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
