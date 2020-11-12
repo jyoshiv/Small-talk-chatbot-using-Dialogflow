@@ -1,0 +1,118 @@
+[
+  {
+    "id": "44fd4796-cd4d-40ce-8365-06e8a366880b",
+    "data": [
+      {
+        "text": "wait a second",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f75337c-3dce-49fe-ace0-cc78d4ed3a71",
+    "data": [
+      {
+        "text": "hold ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dcc3e764-fcfc-4773-b747-31f519491578",
+    "data": [
+      {
+        "text": "oh wait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ed45fea-1cd3-48c4-b1cc-09f2ccd07ec3",
+    "data": [
+      {
+        "text": "don",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027t ",
+        "userDefined": false
+      },
+      {
+        "text": "rush",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f3ff583-1cdb-4524-b1ae-839cd054d3be",
+    "data": [
+      {
+        "text": "wait please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43384846-93f4-4fe7-82f5-e220b7077368",
+    "data": [
+      {
+        "text": "wait hold ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b773dcba-987c-4755-bd3a-068e6ea6cf9d",
+    "data": [
+      {
+        "text": "could you wait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a7a8399-867d-48d3-a800-f4d431572a0d",
+    "data": [
+      {
+        "text": "wait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
