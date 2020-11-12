@@ -1,0 +1,154 @@
+[
+  {
+    "id": "33473c7b-8326-41fc-8d62-876d9a9fdd06",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "240",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GBP",
+        "alias": "currency-from",
+        "meta": "@sys.currency-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7411915e-d2c0-4515-8cf8-36862d44863a",
+    "data": [
+      {
+        "text": "convert it into ",
+        "userDefined": false
+      },
+      {
+        "text": "US Dollars",
+        "alias": "currency-to",
+        "meta": "@sys.currency-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad992db3-7894-4dc5-ae19-5fa6a6edbe67",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "30",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Yuan",
+        "alias": "currency-from",
+        "meta": "@sys.currency-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a468915f-fe4d-49e1-9ac8-0827ea2c0455",
+    "data": [
+      {
+        "text": "now into ",
+        "userDefined": false
+      },
+      {
+        "text": "Euros",
+        "alias": "currency-to",
+        "meta": "@sys.currency-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b36bf5b-4601-4916-ae1c-7cb23b71054f",
+    "data": [
+      {
+        "text": "into ",
+        "userDefined": false
+      },
+      {
+        "text": "INR",
+        "alias": "currency-to",
+        "meta": "@sys.currency-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31787905-1d68-4d8e-a884-2a3416997f25",
+    "data": [
+      {
+        "text": "and in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexican Pesos",
+        "alias": "currency-to",
+        "meta": "@sys.currency-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f55d98a1-a06f-46a7-a64e-8a8c1d28e18d",
+    "data": [
+      {
+        "text": "100",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Dinars",
+        "alias": "currency-from",
+        "meta": "@sys.currency-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "cfe82be1-71a1-41f8-a96a-51ab69e1f71f",
+  "name": "Convert4G",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Sure. I can help you with that. Can you please let me know  your mobile number?",
+            "Sure. Please let me know your mobile number."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508610359,
+  "fallbackIntent": false,
+  "events": []
+}

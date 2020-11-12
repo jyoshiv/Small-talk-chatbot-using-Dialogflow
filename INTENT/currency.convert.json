@@ -1,0 +1,51 @@
+{
+  "id": "efb7a724-33bb-42c7-a157-cc19befa0528",
+  "name": "currency.convert",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "currency.convert",
+      "affectedContexts": [
+        {
+          "name": "convert-currency",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d31b2952-8929-423f-963c-5e6c2ab025ca",
+          "required": false,
+          "dataType": "@sys.currency-name",
+          "name": "currency-from",
+          "value": "$currency-from",
+          "isList": false
+        },
+        {
+          "id": "36547d69-c02e-47ba-917d-3e2f12b11873",
+          "dataType": "@sys.currency-name",
+          "name": "currency-to",
+          "value": "$currency-to",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508616572,
+  "fallbackIntent": false,
+  "events": []
+}

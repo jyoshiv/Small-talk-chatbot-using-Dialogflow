@@ -1,0 +1,26 @@
+[
+  {
+    "id": "51abaa87-2941-46d6-b97c-772c56944fed",
+    "data": [
+      {
+        "text": "USD to INR convert currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508612509
+  },
+  {
+    "id": "8fbe8911-978c-4bd4-9363-351bb39c9a0b",
+    "data": [
+      {
+        "text": "whats he USD rate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508612509
+  }
+]
