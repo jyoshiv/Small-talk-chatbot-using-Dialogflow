@@ -1,0 +1,42 @@
+{
+  "id": "324ee2f7-56e6-44da-b11c-bb3703ff8335",
+  "name": "date.since",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "date.since",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "40318b69-3871-45de-8058-0c68856f3980",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date"
+        },
+        {
+          "id": "7c93f05c-f7e5-4d19-99f6-63571d8e5cdd",
+          "dataType": "@unit-time",
+          "name": "unit",
+          "value": "$unit"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508611706167,
+  "fallbackIntent": false,
+  "events": []
+}
