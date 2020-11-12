@@ -1,0 +1,44 @@
+{
+  "id": "ab85c3be-0913-4ea9-84fb-3dd970fc88b4",
+  "name": "time.time_difference - context:time-difference",
+  "auto": true,
+  "contexts": [
+    "time-difference"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "time.time_difference",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "079ccf4e-baa4-49e3-884c-f841c4fc158f",
+          "dataType": "@sys.location",
+          "name": "location-1",
+          "value": "$location-1"
+        },
+        {
+          "id": "acc49dfa-0af8-4900-8663-b75f613f552c",
+          "dataType": "@sys.location",
+          "name": "location-2",
+          "value": "$location-2"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508614654132,
+  "fallbackIntent": false,
+  "events": []
+}

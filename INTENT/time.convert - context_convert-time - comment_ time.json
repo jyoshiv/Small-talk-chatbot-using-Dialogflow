@@ -1,0 +1,39 @@
+{
+  "id": "d0e3487b-8750-419b-b2ee-1b4b5691f2f5",
+  "name": "time.convert - context:convert-time - comment: time",
+  "auto": true,
+  "contexts": [
+    "convert-time"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "time.convert",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9ed8e670-be76-411c-9e5e-52712a839fff",
+          "dataType": "@sys.time",
+          "name": "time-from",
+          "value": "$time-from",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508614654137,
+  "fallbackIntent": false,
+  "events": []
+}

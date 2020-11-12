@@ -1,0 +1,36 @@
+{
+  "id": "c703f106-f8ef-4d6a-b70f-2c1783c33293",
+  "name": "time.set",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "time.set",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e8af97f2-1480-4ac3-b902-c11018698dd6",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508614654236,
+  "fallbackIntent": false,
+  "events": []
+}

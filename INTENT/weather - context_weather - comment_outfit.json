@@ -1,0 +1,44 @@
+{
+  "id": "1e5a90ba-fc6a-41e7-8247-19e85b90ebef",
+  "name": "weather - context:weather - comment:outfit",
+  "auto": true,
+  "contexts": [
+    "weather"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#weather.intent_action",
+      "affectedContexts": [
+        {
+          "name": "weather",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6b66974c-fe56-46f2-b927-fd02d1274f0a",
+          "dataType": "@outfit",
+          "name": "outfit",
+          "value": "$outfit"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508614413790,
+  "fallbackIntent": false,
+  "events": []
+}
