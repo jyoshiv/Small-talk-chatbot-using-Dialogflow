@@ -1,0 +1,114 @@
+[
+  {
+    "id": "6e33fa5b-406a-466f-8277-290845519aaa",
+    "data": [
+      {
+        "text": "I am getting bored",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15ae8d64-f62c-4154-a187-c5d1931a3dda",
+    "data": [
+      {
+        "text": "I\u0027m bored",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eaa0e9c6-b4f1-4c3a-893f-2a6c320134d8",
+    "data": [
+      {
+        "text": "this is ",
+        "userDefined": false
+      },
+      {
+        "text": "boring",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02c15a94-8ee8-4c27-95e8-cfcb67e5bd96",
+    "data": [
+      {
+        "text": "boring",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a72a613-87b6-4c9c-850a-6a3c1c64b394",
+    "data": [
+      {
+        "text": "that was ",
+        "userDefined": false
+      },
+      {
+        "text": "boring",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d003c6b5-32c7-4a63-8f11-1570787477ec",
+    "data": [
+      {
+        "text": "it bores me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb234ec7-01bd-4b6c-a2f7-d9da786823a4",
+    "data": [
+      {
+        "text": "bored",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b498200-c463-4787-8c2f-7b83c8e9f4f0",
+    "data": [
+      {
+        "text": "very ",
+        "userDefined": false
+      },
+      {
+        "text": "boring",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
