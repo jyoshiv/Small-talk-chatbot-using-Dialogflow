@@ -1,0 +1,264 @@
+[
+  {
+    "id": "d256083b-3af2-42b1-90ca-f79fd40525ab",
+    "data": [
+      {
+        "text": "now",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "BBC",
+        "alias": "source",
+        "meta": "@news-source",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6746ed48-60ab-45ba-b924-72393d114415",
+    "data": [
+      {
+        "text": "CNN",
+        "alias": "source",
+        "meta": "@news-source",
+        "userDefined": false
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a1087fc-ca53-4af3-9d9d-43eccaa36483",
+    "data": [
+      {
+        "text": "now",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "CNN",
+        "alias": "source",
+        "meta": "@news-source",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "285be222-cdf0-46d0-815c-7fb2baba5b73",
+    "data": [
+      {
+        "text": "from ",
+        "userDefined": false
+      },
+      {
+        "text": "BBC",
+        "alias": "source",
+        "meta": "@news-source",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5be3db41-28b7-4317-a019-6864efb12f11",
+    "data": [
+      {
+        "text": "also from ",
+        "userDefined": false
+      },
+      {
+        "text": "BBC",
+        "alias": "source",
+        "meta": "@news-source",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6472dd5d-2cea-418b-848f-c0909357231e",
+    "data": [
+      {
+        "text": "from ",
+        "userDefined": false
+      },
+      {
+        "text": "BBC",
+        "alias": "source",
+        "meta": "@news-source",
+        "userDefined": true
+      },
+      {
+        "text": " also",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7463208c-5b06-4af3-8679-543df2a87628",
+    "data": [
+      {
+        "text": "CNN",
+        "alias": "source",
+        "meta": "@news-source",
+        "userDefined": false
+      },
+      {
+        "text": " as ",
+        "userDefined": false
+      },
+      {
+        "text": "well",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd1e3c3e-e2f6-403b-9f43-0a33341ba4ea",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "CNN",
+        "alias": "source",
+        "meta": "@news-source",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60705434-98a6-4f35-a596-bfe180377d14",
+    "data": [
+      {
+        "text": "now the ones",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "form",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "BBC",
+        "alias": "source",
+        "meta": "@news-source",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4551ce3f-340c-4ab0-beba-2099b95d74f0",
+    "data": [
+      {
+        "text": "how about ",
+        "userDefined": false
+      },
+      {
+        "text": "CNN",
+        "alias": "source",
+        "meta": "@news-source",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57a935d5-baeb-42c0-8792-9d1164b111e7",
+    "data": [
+      {
+        "text": "now from ",
+        "userDefined": false
+      },
+      {
+        "text": "ABC",
+        "alias": "source",
+        "meta": "@news-source",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33a1d3c6-af3c-418b-8160-595339090272",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "BBC",
+        "alias": "source",
+        "meta": "@news-source",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

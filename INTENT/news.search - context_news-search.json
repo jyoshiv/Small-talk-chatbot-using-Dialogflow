@@ -1,0 +1,44 @@
+{
+  "id": "da4b441f-9216-4895-9f88-5de7c5637744",
+  "name": "news.search - context:news-search",
+  "auto": true,
+  "contexts": [
+    "news-search"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "news.search",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "db7ae0c0-fb21-4e91-98b0-ce193b52be71",
+          "dataType": "@news-source",
+          "name": "source",
+          "value": "$source",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "speech": "Below are some news topics from @news-source"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508617236,
+  "fallbackIntent": false,
+  "events": []
+}

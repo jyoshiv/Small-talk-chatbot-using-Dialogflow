@@ -1,0 +1,60 @@
+[
+  {
+    "id": "b60668e6-a6fe-4c10-abe3-0fabb153077a",
+    "data": [
+      {
+        "text": "Read me the news from ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "source",
+        "meta": "@news-source",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508617236
+  },
+  {
+    "id": "f193f1e1-3eb9-4104-b397-113225ef3621",
+    "data": [
+      {
+        "text": "Whats in the ",
+        "userDefined": false
+      },
+      {
+        "text": "India\u0027s",
+        "alias": "source",
+        "meta": "@news-source",
+        "userDefined": true
+      },
+      {
+        "text": " news today?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508617236
+  },
+  {
+    "id": "d902e3f5-7dbc-47dd-86fc-5ac8da52944f",
+    "data": [
+      {
+        "text": "Tell me today\u0027s news from ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "source",
+        "meta": "@news-source",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508617236
+  }
+]

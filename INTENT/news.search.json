@@ -1,0 +1,74 @@
+{
+  "id": "27b82b25-a6d9-411f-b5fa-a4baaf9b3971",
+  "name": "news.search",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "news.search",
+      "affectedContexts": [
+        {
+          "name": "news-search",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "newssearch-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e707584a-3b3b-4079-b8c4-fdc83f12808b",
+          "dataType": "@sys.any",
+          "name": "keyword",
+          "value": "$keyword"
+        },
+        {
+          "id": "416822ec-8883-41eb-bf06-361bcc2ad816",
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time"
+        },
+        {
+          "id": "29146543-d052-4e9a-bab0-fa13e70ed8cb",
+          "dataType": "@topic",
+          "name": "category",
+          "value": "$category",
+          "isList": false
+        },
+        {
+          "id": "463965dd-c714-473e-8209-ead147d6a313",
+          "dataType": "@news-source",
+          "name": "source",
+          "value": "$source",
+          "isList": false
+        },
+        {
+          "id": "083820fd-ca12-431c-b2c6-d8b0e76f3a49",
+          "dataType": "@news-sort",
+          "name": "sort",
+          "value": "$sort",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508614746539,
+  "fallbackIntent": false,
+  "events": []
+}

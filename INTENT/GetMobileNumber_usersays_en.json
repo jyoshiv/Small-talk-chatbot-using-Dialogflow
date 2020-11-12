@@ -1,0 +1,46 @@
+[
+  {
+    "id": "c6e4f347-1baa-4bcc-8742-c53c8beda0a0",
+    "data": [
+      {
+        "text": "i wish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508610674
+  },
+  {
+    "id": "f351e83a-f9f1-4398-b85c-4adfb2a1cf7f",
+    "data": [
+      {
+        "text": "8149791156",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50a172c7-0220-4d3d-9aaf-6ef463c72d88",
+    "data": [
+      {
+        "text": "My mobile number is ",
+        "userDefined": false
+      },
+      {
+        "text": "8149791156",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
