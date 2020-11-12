@@ -1,0 +1,357 @@
+[
+  {
+    "value": "Arbor Day",
+    "synonyms": [
+      "Arbor Day"
+    ]
+  },
+  {
+    "value": "Memorial Day",
+    "synonyms": [
+      "Memorial Day"
+    ]
+  },
+  {
+    "value": "New Year",
+    "synonyms": [
+      "New Year"
+    ]
+  },
+  {
+    "value": "Washington\u0027s Birthday",
+    "synonyms": [
+      "Washington s Birthday",
+      "Washington s Birthday day",
+      "Presidents Day",
+      "President s Day",
+      "Washington\u0027s Birthday"
+    ]
+  },
+  {
+    "value": "May Day",
+    "synonyms": [
+      "May Day"
+    ]
+  },
+  {
+    "value": "Diwali",
+    "synonyms": [
+      "Diwali",
+      "Deepawali",
+      "Deewali"
+    ]
+  },
+  {
+    "value": "Halloween",
+    "synonyms": [
+      "Halloween"
+    ]
+  },
+  {
+    "value": "Republic Day",
+    "synonyms": [
+      "Republic Day"
+    ]
+  },
+  {
+    "value": "Women day",
+    "synonyms": [
+      "Women s day",
+      "day of Woomen",
+      "Woomen day"
+    ]
+  },
+  {
+    "value": "Labor Day",
+    "synonyms": [
+      "Labor Day"
+    ]
+  },
+  {
+    "value": "Patriot Day",
+    "synonyms": [
+      "Patriot Day"
+    ]
+  },
+  {
+    "value": "Christmas",
+    "synonyms": [
+      "Christmas",
+      "Christmases",
+      "X mas",
+      "x-mas",
+      "Xmas",
+      "Merry Christmas",
+      "Merry X mas",
+      "Merry x-mas",
+      "Merry Xmas"
+    ]
+  },
+  {
+    "value": "Mother\u0027s Day",
+    "synonyms": [
+      "Mother s Day",
+      "Mother\u0027s Day"
+    ]
+  },
+  {
+    "value": "Citizenship Day",
+    "synonyms": [
+      "Constitution Day",
+      "Citizenship Day"
+    ]
+  },
+  {
+    "value": "Black Friday",
+    "synonyms": [
+      "Black Friday"
+    ]
+  },
+  {
+    "value": "Valentine\u0027s Day",
+    "synonyms": [
+      "Valentine day",
+      "Valentine s day",
+      "Valentines day",
+      "Valentine\u0027s day",
+      "Saint Valentine",
+      "Saint Valentine day",
+      "Saint Valentine s day",
+      "Saint Valentine\u0027s day",
+      "Saint Valentines day",
+      "St Valentine s day",
+      "St Valentine\u0027s day",
+      "St Valentines day",
+      "Valentine"
+    ]
+  },
+  {
+    "value": "Martin Luther King",
+    "synonyms": [
+      "Martin Luther King Birthday",
+      "Martin Luther King s Birthday",
+      "Martin Luther King"
+    ]
+  },
+  {
+    "value": "Independence Day",
+    "synonyms": [
+      "Independence Day"
+    ]
+  },
+  {
+    "value": "Election Day",
+    "synonyms": [
+      "Election Day"
+    ]
+  },
+  {
+    "value": "German-American Day",
+    "synonyms": [
+      "German American Day",
+      "German-American Day"
+    ]
+  },
+  {
+    "value": "Vernal Equinox",
+    "synonyms": [
+      "spring equinox",
+      "vernal equinox"
+    ]
+  },
+  {
+    "value": "Columbus Day",
+    "synonyms": [
+      "Columbus day",
+      "Columbus"
+    ]
+  },
+  {
+    "value": "Saint Patrick\u0027s Day",
+    "synonyms": [
+      "Saint s Patrick s Day",
+      "Saint s Patrick Day",
+      "Saint Patrick s Day",
+      "Saint Patrick Day",
+      "St. Patrick s Day",
+      "St. Patrick Day",
+      "St Patrick s Day",
+      "St Patrick Day",
+      "Patrick s Day"
+    ]
+  },
+  {
+    "value": "Eid",
+    "synonyms": [
+      "Eid",
+      "Id"
+    ]
+  },
+  {
+    "value": "New Year",
+    "synonyms": [
+      "New Years",
+      "New Year s",
+      "New Year\u0027s",
+      "New Year"
+    ]
+  },
+  {
+    "value": "Pearl Harbor Day",
+    "synonyms": [
+      "Pearl Harbor Remembrance Day",
+      "Pearl Harbor Day",
+      "Pearl Harbor Day"
+    ]
+  },
+  {
+    "value": "Cinco de Mayo",
+    "synonyms": [
+      "Cinco de Mayo"
+    ]
+  },
+  {
+    "value": "Autumnal Equinox",
+    "synonyms": [
+      "autumn equinox",
+      "autumnal equinox"
+    ]
+  },
+  {
+    "value": "Veterans Day",
+    "synonyms": [
+      "Veteran\u0027s Day",
+      "Veteran s Day",
+      "Veteran Day",
+      "Day of Veterans",
+      "Day of Veteran\u0027s",
+      "Day of Veteran s",
+      "Veterans Day"
+    ]
+  },
+  {
+    "value": "Christmas Eve",
+    "synonyms": [
+      "christmas eve"
+    ]
+  },
+  {
+    "value": "Easter",
+    "synonyms": [
+      "Easter",
+      "Easter Sunday"
+    ]
+  },
+  {
+    "value": "Earth Day",
+    "synonyms": [
+      "Earth Day"
+    ]
+  },
+  {
+    "value": "Labour Day",
+    "synonyms": [
+      "Labour Day"
+    ]
+  },
+  {
+    "value": "Indian Independe Day",
+    "synonyms": [
+      "Indian Independe Day",
+      "Independence Day"
+    ]
+  },
+  {
+    "value": "Flag Day",
+    "synonyms": [
+      "Flag Day"
+    ]
+  },
+  {
+    "value": "Holi",
+    "synonyms": [
+      "Holi"
+    ]
+  },
+  {
+    "value": "Fools\u0027 Day",
+    "synonyms": [
+      "Fools Day",
+      "Fool s Day",
+      "Fool\u0027s Day",
+      "April Fools\u0027 Day",
+      "April Fools Day",
+      "April Fool s Day",
+      "April Fool\u0027s Day",
+      "Fools\u0027 Day"
+    ]
+  },
+  {
+    "value": "Winter Solstice",
+    "synonyms": [
+      "winter solstice"
+    ]
+  },
+  {
+    "value": "Summer Solstice",
+    "synonyms": [
+      "summer solstice"
+    ]
+  },
+  {
+    "value": "Equality Day",
+    "synonyms": [
+      "Women\u0027s Equality Day",
+      "Women s Equality Day",
+      "Equality Day"
+    ]
+  },
+  {
+    "value": "Thanksgiving day",
+    "synonyms": [
+      "Thanksgiving",
+      "Thanksgiving day"
+    ]
+  },
+  {
+    "value": "New Year\u0027s Eve",
+    "synonyms": [
+      "New Years Eve",
+      "New Year\u0027s Eve",
+      "New Year s Eve",
+      "New Year Eve"
+    ]
+  },
+  {
+    "value": "Children\u0027s Day",
+    "synonyms": [
+      "Children s Day",
+      "Children\u0027s Day"
+    ]
+  },
+  {
+    "value": "Helen Keller Day",
+    "synonyms": [
+      "Helen Keller Day"
+    ]
+  },
+  {
+    "value": "Leif Erikson Day",
+    "synonyms": [
+      "Leif Erikson Day"
+    ]
+  },
+  {
+    "value": "Father\u0027s Day",
+    "synonyms": [
+      "Father s Day",
+      "Father\u0027s Day"
+    ]
+  },
+  {
+    "value": "Gandhi Jayanti",
+    "synonyms": [
+      "Gandhi Jayanti"
+    ]
+  }
+]

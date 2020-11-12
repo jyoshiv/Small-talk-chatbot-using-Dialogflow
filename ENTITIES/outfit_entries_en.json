@@ -1,0 +1,368 @@
+[
+  {
+    "value": "bathing suit",
+    "synonyms": [
+      "bathing suit"
+    ]
+  },
+  {
+    "value": "balaclava",
+    "synonyms": [
+      "balaclava"
+    ]
+  },
+  {
+    "value": "dress shirt",
+    "synonyms": [
+      "dress shirt"
+    ]
+  },
+  {
+    "value": "hat",
+    "synonyms": [
+      "hat"
+    ]
+  },
+  {
+    "value": "hoodie",
+    "synonyms": [
+      "hoodie"
+    ]
+  },
+  {
+    "value": "boots",
+    "synonyms": [
+      "boots"
+    ]
+  },
+  {
+    "value": "gum boots",
+    "synonyms": [
+      "gum boots",
+      "gumboots"
+    ]
+  },
+  {
+    "value": "beanie",
+    "synonyms": [
+      "beanie"
+    ]
+  },
+  {
+    "value": "flips flops",
+    "synonyms": [
+      "flips flops"
+    ]
+  },
+  {
+    "value": "capri",
+    "synonyms": [
+      "capri"
+    ]
+  },
+  {
+    "value": "dress",
+    "synonyms": [
+      "dress"
+    ]
+  },
+  {
+    "value": "dress pants",
+    "synonyms": [
+      "dress pants"
+    ]
+  },
+  {
+    "value": "gloves",
+    "synonyms": [
+      "gloves"
+    ]
+  },
+  {
+    "value": "bra",
+    "synonyms": [
+      "bra"
+    ]
+  },
+  {
+    "value": "casual shirt",
+    "synonyms": [
+      "casual shirt"
+    ]
+  },
+  {
+    "value": "cardigan",
+    "synonyms": [
+      "cardigan"
+    ]
+  },
+  {
+    "value": "coat",
+    "synonyms": [
+      "coat"
+    ]
+  },
+  {
+    "value": "fleece top",
+    "synonyms": [
+      "fleece top"
+    ]
+  },
+  {
+    "value": "jumper",
+    "synonyms": [
+      "jumper"
+    ]
+  },
+  {
+    "value": "lounge wear",
+    "synonyms": [
+      "lounge wear"
+    ]
+  },
+  {
+    "value": "khakis",
+    "synonyms": [
+      "khakis"
+    ]
+  },
+  {
+    "value": "rain jacket",
+    "synonyms": [
+      "rain jacket"
+    ]
+  },
+  {
+    "value": "rain coat",
+    "synonyms": [
+      "rain coat",
+      "raincoat"
+    ]
+  },
+  {
+    "value": "pajama",
+    "synonyms": [
+      "pajama",
+      "pyjama"
+    ]
+  },
+  {
+    "value": "jacket",
+    "synonyms": [
+      "jacket"
+    ]
+  },
+  {
+    "value": "rain pants",
+    "synonyms": [
+      "rain pants"
+    ]
+  },
+  {
+    "value": "jeans",
+    "synonyms": [
+      "jeans"
+    ]
+  },
+  {
+    "value": "pool shoes",
+    "synonyms": [
+      "pool shoes"
+    ]
+  },
+  {
+    "value": "neck gaiter",
+    "synonyms": [
+      "neck gaiter"
+    ]
+  },
+  {
+    "value": "pants",
+    "synonyms": [
+      "pants"
+    ]
+  },
+  {
+    "value": "skirt",
+    "synonyms": [
+      "skirt",
+      "skirts"
+    ]
+  },
+  {
+    "value": "sleepwear",
+    "synonyms": [
+      "sleepwear"
+    ]
+  },
+  {
+    "value": "snowboard pants",
+    "synonyms": [
+      "snowboard pants"
+    ]
+  },
+  {
+    "value": "swimwear",
+    "synonyms": [
+      "swimwear"
+    ]
+  },
+  {
+    "value": "ski pants",
+    "synonyms": [
+      "ski pants"
+    ]
+  },
+  {
+    "value": "sneakers",
+    "synonyms": [
+      "sneakers"
+    ]
+  },
+  {
+    "value": "suit",
+    "synonyms": [
+      "suit"
+    ]
+  },
+  {
+    "value": "socks",
+    "synonyms": [
+      "socks"
+    ]
+  },
+  {
+    "value": "t-shirt",
+    "synonyms": [
+      "t-shirt"
+    ]
+  },
+  {
+    "value": "slippers",
+    "synonyms": [
+      "slippers"
+    ]
+  },
+  {
+    "value": "underwear",
+    "synonyms": [
+      "underwear"
+    ]
+  },
+  {
+    "value": "shawls",
+    "synonyms": [
+      "shawls"
+    ]
+  },
+  {
+    "value": "sweatpants",
+    "synonyms": [
+      "sweatpants"
+    ]
+  },
+  {
+    "value": "thermal pants",
+    "synonyms": [
+      "thermal pants"
+    ]
+  },
+  {
+    "value": "sunglasses",
+    "synonyms": [
+      "sunglasses",
+      "sun glasses"
+    ]
+  },
+  {
+    "value": "sleeve shirt",
+    "synonyms": [
+      "sleeve shirt"
+    ]
+  },
+  {
+    "value": "sandals",
+    "synonyms": [
+      "sandals"
+    ]
+  },
+  {
+    "value": "shorts",
+    "synonyms": [
+      "shorts"
+    ]
+  },
+  {
+    "value": "scarf",
+    "synonyms": [
+      "scarf"
+    ]
+  },
+  {
+    "value": "swim goggles",
+    "synonyms": [
+      "swim goggles"
+    ]
+  },
+  {
+    "value": "tie",
+    "synonyms": [
+      "tie"
+    ]
+  },
+  {
+    "value": "turtleneck",
+    "synonyms": [
+      "turtleneck"
+    ]
+  },
+  {
+    "value": "sunscreen",
+    "synonyms": [
+      "sunscreen"
+    ]
+  },
+  {
+    "value": "sweatshirt",
+    "synonyms": [
+      "sweatshirt"
+    ]
+  },
+  {
+    "value": "sweater",
+    "synonyms": [
+      "sweater"
+    ]
+  },
+  {
+    "value": "umbrella",
+    "synonyms": [
+      "umbrella"
+    ]
+  },
+  {
+    "value": "wool cap",
+    "synonyms": [
+      "wool cap"
+    ]
+  },
+  {
+    "value": "wool socks",
+    "synonyms": [
+      "wool socks",
+      "woolen socks"
+    ]
+  },
+  {
+    "value": "tank top",
+    "synonyms": [
+      "tank top"
+    ]
+  },
+  {
+    "value": "tennis shoes",
+    "synonyms": [
+      "tennis shoes"
+    ]
+  }
+]
