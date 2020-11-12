@@ -1,0 +1,38 @@
+{
+  "id": "4498cf36-1c3b-4b8e-8a5c-fcb54a89e44a",
+  "name": "Who created you?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Vishal Lambe created me.",
+            "Vishal Lambe is my master."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 1000000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508586446,
+  "fallbackIntent": false,
+  "events": []
+}

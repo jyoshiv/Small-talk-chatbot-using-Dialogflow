@@ -1,0 +1,74 @@
+{
+  "id": "f48d662e-402b-4ccd-ba39-d0616c1fdb35",
+  "name": "web.search",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "web.search",
+      "affectedContexts": [
+        {
+          "name": "web-search",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "control_lists_web_search",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "websearch-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a72809bb-09bf-4a4e-ad76-8e065b60a4e1",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "q",
+          "value": "$q",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please let me know what you wish to search"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "7a14cd68-bd71-422e-b8f5-0cef6a03fc4d",
+          "required": false,
+          "dataType": "@search-engine",
+          "name": "service",
+          "value": "$service",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "the service is"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508653923,
+  "fallbackIntent": false,
+  "events": []
+}

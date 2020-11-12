@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7ff01f38-9f6b-4337-8fae-cb0d0c0bb1af",
+    "data": [
+      {
+        "text": "Who\u0027s yo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508586446
+  },
+  {
+    "id": "52f58964-e0c4-4e73-ad46-0bff7e7075f0",
+    "data": [
+      {
+        "text": "Who\u0027s your master?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c657680b-50c1-4ebb-b6c0-f00b11c4b849",
+    "data": [
+      {
+        "text": "Who created you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
