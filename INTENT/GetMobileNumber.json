@@ -1,0 +1,47 @@
+{
+  "id": "6c032399-3045-49d5-9b46-84bcf452ed05",
+  "name": "GetMobileNumber",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a4cc2a2c-b8af-482f-861d-bea1a3c4a867",
+          "dataType": "@sys.phone-number",
+          "name": "phone-number",
+          "value": "$phone-number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Ok, thank you for the details.",
+            "Thanks for the details."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "So you wish to convert your number $phone-number to 4G.. Am I right?",
+            "So you with to switch your $phone-number to 4G. Am i right?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508610952,
+  "fallbackIntent": false,
+  "events": []
+}
