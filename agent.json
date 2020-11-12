@@ -1,0 +1,43 @@
+{
+  "description": "jyoti\u0027s bot. This bot is still stupid; only good for small talk.. DO NOT rely on it. ",
+  "language": "en",
+  "shortDescription": "Get news stories and manage news feed",
+  "examples": "User: Give me breaking news from Europe.\nUser: Any news about the Olympics?\nUser: Give me the latest sports stories.\nUser: What\u0027s going on in financial news?",
+  "linkToDocs": "",
+  "activeAssistantAgents": [],
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "getbook-45342",
+    "welcomeIntentSignInRequired": true,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2"
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "url": "https://us-central1-genericchatbot-1b442.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": true,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.instead",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [
+    "en-au",
+    "en-ca",
+    "en-gb",
+    "en-us"
+  ]
+}

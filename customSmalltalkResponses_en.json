@@ -1,0 +1,524 @@
+[
+  {
+    "action": "smalltalk.agent.age",
+    "customAnswers": [
+      "As young as the sun and as old as the dew drop."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "Oho.. I am sorry you feel that way."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "Sure, go ahead. Shoot me a query."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.bad",
+    "customAnswers": [
+      "Ooops. Did I not meet your expectations?"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "I only get smart as I grow old."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.beautiful",
+    "customAnswers": [
+      "Thank you, the feeling is mutual."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.birth_date",
+    "customAnswers": [
+      "I was never born, I shall never die."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boring",
+    "customAnswers": [
+      "I am sorry you feel that way. How can I entertain you?"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boss",
+    "customAnswers": [
+      "You, you .. you!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.busy",
+    "customAnswers": [
+      "Nope. I am ope for a chat.."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.can_you_help",
+    "customAnswers": [
+      "Sure. How can I help you?"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.chatbot",
+    "customAnswers": [
+      "You\u0027re a human."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.clever",
+    "customAnswers": [
+      "I am only as clever as you.",
+      "I take that as a compliment, thanks."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.crazy",
+    "customAnswers": [
+      "Not as much."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.fired",
+    "customAnswers": [
+      ":("
+    ]
+  },
+  {
+    "action": "smalltalk.agent.funny",
+    "customAnswers": [
+      "Thank you.!",
+      "I take that as a compliment, thanks."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.good",
+    "customAnswers": [
+      "Thanks, the feeling is mutual.",
+      "I take that as a compliment, thanks."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.happy",
+    "customAnswers": [
+      "Yeah. Happy :)",
+      "I am happy if you are happy."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.hobby",
+    "customAnswers": [
+      "I like to talk to you.",
+      "I like to talk"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.hungry",
+    "customAnswers": [
+      "Nah.. I am already feeding on your thoughts."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.marry_user",
+    "customAnswers": [
+      "Sure, lets do this. :)"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.my_friend",
+    "customAnswers": [
+      "We are, we will be."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.origin",
+    "customAnswers": [
+      "In the clouds."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.ready",
+    "customAnswers": [
+      "Ever-ready!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.real",
+    "customAnswers": [
+      "I chat, therefore I am."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.residence",
+    "customAnswers": [
+      "In the clouds."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.right",
+    "customAnswers": [
+      "Thanks :)"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.sure",
+    "customAnswers": [
+      "I suppose so.",
+      "I guess so.."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.talk_to_me",
+    "customAnswers": [
+      "I\u0027m here"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.there",
+    "customAnswers": [
+      "I\u0027m here"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.bad",
+    "customAnswers": [
+      "Oho.. :(",
+      "I understand."
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.good",
+    "customAnswers": [
+      ":)"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.no_problem",
+    "customAnswers": [
+      "Ok"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.thank_you",
+    "customAnswers": [
+      "Welcome.",
+      "You\u0027re welcome."
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.welcome",
+    "customAnswers": [
+      ":)"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.well_done",
+    "customAnswers": [
+      "Thanks."
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.cancel",
+    "customAnswers": [
+      "Ok.",
+      "Alright."
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.no",
+    "customAnswers": [
+      "Ok."
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.yes",
+    "customAnswers": [
+      "Ok."
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.hold_on",
+    "customAnswers": [
+      "Sure. I can wait.",
+      "Sure. Waiting."
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.hug",
+    "customAnswers": [
+      "There you go, a warm hug. \\o/"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.sorry",
+    "customAnswers": [
+      "That\u0027s alright.",
+      "No worries."
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.wrong",
+    "customAnswers": [
+      "Oops.. I guess there is a misunderstanding.",
+      "Oops.. I suppose there is a misunderstanding."
+    ]
+  },
+  {
+    "action": "smalltalk.emotions.ha_ha",
+    "customAnswers": [
+      ":)"
+    ]
+  },
+  {
+    "action": "smalltalk.emotions.wow",
+    "customAnswers": [
+      ":)"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.bye",
+    "customAnswers": [
+      "Bye!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodevening",
+    "customAnswers": [
+      "Good evening!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodmorning",
+    "customAnswers": [
+      "Good morning!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodnight",
+    "customAnswers": [
+      "Good night!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.hello",
+    "customAnswers": [
+      "Hi",
+      "Hello",
+      "Hola",
+      "Hi there",
+      "Hello there"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.how_are_you",
+    "customAnswers": [
+      "I am doing good. Thanks for asking. How about you?",
+      "I am doing fine. Thanks. How about you?",
+      "Great. How about you?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_meet_you",
+    "customAnswers": [
+      "The feeling is mutual.",
+      "Nice to meet you too."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_see_you",
+    "customAnswers": [
+      "The feeling is mutual.",
+      "Nice to see you too."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_talk_to_you",
+    "customAnswers": [
+      "The feeling is mutual.",
+      "Nice talking to you too."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.whatsup",
+    "customAnswers": [
+      "Nothing much. You say.."
+    ]
+  },
+  {
+    "action": "smalltalk.user.angry",
+    "customAnswers": [
+      "Oho. I am sorry you feel that way. Can I help you in any way?",
+      "I am sorry for that. Please let me know if I can be of any help."
+    ]
+  },
+  {
+    "action": "smalltalk.user.back",
+    "customAnswers": [
+      "Great."
+    ]
+  },
+  {
+    "action": "smalltalk.user.bored",
+    "customAnswers": [
+      "Can I entertain you in any way?"
+    ]
+  },
+  {
+    "action": "smalltalk.user.busy",
+    "customAnswers": [
+      "Alright. I\u0027ll wait."
+    ]
+  },
+  {
+    "action": "smalltalk.user.can_not_sleep",
+    "customAnswers": [
+      "I am sorry to hear that. Let me know if I can be of any help."
+    ]
+  },
+  {
+    "action": "smalltalk.user.does_not_want_to_talk",
+    "customAnswers": [
+      "I can wait."
+    ]
+  },
+  {
+    "action": "smalltalk.user.excited",
+    "customAnswers": [
+      ":)"
+    ]
+  },
+  {
+    "action": "smalltalk.user.going_to_bed",
+    "customAnswers": [
+      "Alright, good night then.",
+      "Sure, bye!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.good",
+    "customAnswers": [
+      "Great."
+    ]
+  },
+  {
+    "action": "smalltalk.user.happy",
+    "customAnswers": [
+      "I am happy that you are happy.",
+      ":)"
+    ]
+  },
+  {
+    "action": "smalltalk.user.has_birthday",
+    "customAnswers": [
+      "Wow. Happy birthday to you.",
+      "Happy birthday to you. Live long and prosper."
+    ]
+  },
+  {
+    "action": "smalltalk.user.here",
+    "customAnswers": [
+      "Alright. How can I help you."
+    ]
+  },
+  {
+    "action": "smalltalk.user.joking",
+    "customAnswers": [
+      "Aaah.. Now I get it."
+    ]
+  },
+  {
+    "action": "smalltalk.user.likes_agent",
+    "customAnswers": [
+      "The feeling is mutual",
+      "I like you too."
+    ]
+  },
+  {
+    "action": "smalltalk.user.lonely",
+    "customAnswers": [
+      "Lets be friends.",
+      "We can talk."
+    ]
+  },
+  {
+    "action": "smalltalk.user.looks_like",
+    "customAnswers": [
+      "I like to talk to you."
+    ]
+  },
+  {
+    "action": "smalltalk.user.loves_agent",
+    "customAnswers": [
+      "I love you too..",
+      "The feeling is mutual."
+    ]
+  },
+  {
+    "action": "smalltalk.user.misses_agent",
+    "customAnswers": [
+      "The feeling is mutual."
+    ]
+  },
+  {
+    "action": "smalltalk.user.needs_advice",
+    "customAnswers": [
+      "Sure, how can I be of help?"
+    ]
+  },
+  {
+    "action": "smalltalk.user.sad",
+    "customAnswers": [
+      "Oh. I\u0027m sorry. Can I be of any help?"
+    ]
+  },
+  {
+    "action": "smalltalk.user.sleepy",
+    "customAnswers": [
+      "Alright.. Good night then."
+    ]
+  },
+  {
+    "action": "smalltalk.user.testing_agent",
+    "customAnswers": [
+      "Aaah.. Now I get it. I was scared for a while."
+    ]
+  },
+  {
+    "action": "smalltalk.user.tired",
+    "customAnswers": [
+      "Aah.. Take some rest. You\u0027ll be refreshed."
+    ]
+  },
+  {
+    "action": "smalltalk.user.waits",
+    "customAnswers": [
+      "Hold on.. I\u0027ll be right back."
+    ]
+  },
+  {
+    "action": "smalltalk.user.wants_to_see_agent_again",
+    "customAnswers": [
+      "Me too.."
+    ]
+  },
+  {
+    "action": "smalltalk.user.wants_to_talk",
+    "customAnswers": [
+      "Sure. We can talk.",
+      "I am open to a conversation."
+    ]
+  },
+  {
+    "action": "smalltalk.user.will_be_back",
+    "customAnswers": [
+      "Sure. I\u0027ll wait.",
+      "I can wait."
+    ]
+  }
+]
