@@ -1,0 +1,262 @@
+[
+  {
+    "id": "efc2ee05-1017-4c26-a9f0-27daa24a509a",
+    "data": [
+      {
+        "text": "answers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb526c28-2495-4595-b19e-2e3c71dc373a",
+    "data": [
+      {
+        "text": "answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba1b0bd3-55c5-4f60-b0ae-ada49484fabf",
+    "data": [
+      {
+        "text": "tell me the answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76fbee27-042d-4903-8231-f55961eb26ac",
+    "data": [
+      {
+        "text": "I want you to answer my question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08f7748a-81dc-4253-a622-6ea9e44d201f",
+    "data": [
+      {
+        "text": "give",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " me an answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "180d4cb6-7709-4683-849f-ac04a6b4c651",
+    "data": [
+      {
+        "text": "answering questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "144b6f57-6ecd-4fcf-8569-0e734982a7e6",
+    "data": [
+      {
+        "text": "answer my question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d42946b-4efe-4650-bb49-3db3281b0d7b",
+    "data": [
+      {
+        "text": "can you answer a question for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42084651-e5b1-4eeb-8d95-2c64193d4d51",
+    "data": [
+      {
+        "text": "can you answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c617796-8142-466d-8c00-482317cce49b",
+    "data": [
+      {
+        "text": "answer the question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13feb609-3d93-4bd5-b97f-9d308515032e",
+    "data": [
+      {
+        "text": "answer ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3b92c26-bc17-4576-803f-b614ef747ca9",
+    "data": [
+      {
+        "text": "I want the answer now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a15cc85-60ba-4da9-8598-d6ecd7b08dc6",
+    "data": [
+      {
+        "text": "I have a question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60d06bb8-64b1-48b8-ac55-2e71e6633255",
+    "data": [
+      {
+        "text": "can you answer my question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bc3287b-f297-4218-9c15-0b5a04f64676",
+    "data": [
+      {
+        "text": "just answer the question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9af34e8a-faf5-417a-8daf-5bdc7c7b1398",
+    "data": [
+      {
+        "text": "just answer my question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a706628a-5295-4ce2-ac2b-3b6d1d282d50",
+    "data": [
+      {
+        "text": "can you answer me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89d04780-6bc3-4af0-86f4-ea01131c1f2f",
+    "data": [
+      {
+        "text": "give",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " me the answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc267564-7eaa-49df-8096-cb98b92ad3bd",
+    "data": [
+      {
+        "text": "I want you to answer ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0280ad39-d583-4869-9a47-5faf971f3c25",
+    "data": [
+      {
+        "text": "answer me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
