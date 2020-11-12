@@ -1,0 +1,40 @@
+[
+  {
+    "id": "43f56d98-f0e4-4869-96ed-c6c56f58cf03",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "days",
+        "alias": "unit",
+        "meta": "@unit-time",
+        "userDefined": true
+      },
+      {
+        "text": " are between ",
+        "userDefined": false
+      },
+      {
+        "text": "01-05-1989",
+        "alias": "date-1",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "01-05-1990",
+        "alias": "date-2",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508616838
+  }
+]

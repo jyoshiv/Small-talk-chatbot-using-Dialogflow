@@ -1,0 +1,56 @@
+{
+  "id": "3d9a9ad2-47b1-4de8-908c-398c5b006abd",
+  "name": "date.between",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "date.between",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "91bdf393-7f51-486b-bc1c-518dc75d9739",
+          "dataType": "@sys.date",
+          "name": "date-1",
+          "value": "$date-1",
+          "isList": false
+        },
+        {
+          "id": "db4f4f0e-20f9-4935-b33c-c5cdb51dc6b8",
+          "dataType": "@sys.date",
+          "name": "date-2",
+          "value": "$date-2",
+          "isList": false
+        },
+        {
+          "id": "3d9a9d03-e85f-401f-8129-94191bf08c40",
+          "dataType": "@unit-time",
+          "name": "unit",
+          "value": "$unit",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "speech": "There are $unit days in between."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508616838,
+  "fallbackIntent": false,
+  "events": []
+}

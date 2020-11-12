@@ -1,0 +1,42 @@
+[
+  {
+    "id": "69dc5ca0-2183-4c4f-8886-4eacde252327",
+    "data": [
+      {
+        "text": "What is the USD rate now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1508614861
+  },
+  {
+    "id": "dc500e16-668e-481f-9c0a-d2ec16278558",
+    "data": [
+      {
+        "text": "USD",
+        "alias": "currency-from",
+        "meta": "@sys.currency-name",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "INR",
+        "alias": "currency-to",
+        "meta": "@sys.currency-name",
+        "userDefined": true
+      },
+      {
+        "text": " convert currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508614861
+  }
+]
