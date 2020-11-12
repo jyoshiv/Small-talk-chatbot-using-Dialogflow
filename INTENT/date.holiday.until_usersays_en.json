@@ -1,0 +1,382 @@
+[
+  {
+    "id": "9fdfdbaa-5e3b-4b9e-aed6-6310841fbd78",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "many",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hours",
+        "alias": "unit",
+        "meta": "@unit-time",
+        "userDefined": true
+      },
+      {
+        "text": " do ",
+        "userDefined": false
+      },
+      {
+        "text": "we",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " have until ",
+        "userDefined": false
+      },
+      {
+        "text": "New Year",
+        "alias": "holiday",
+        "meta": "@holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "449ba475-8512-48af-8792-adfa089887c4",
+    "data": [
+      {
+        "text": "days",
+        "alias": "unit",
+        "meta": "@unit-time",
+        "userDefined": false
+      },
+      {
+        "text": " until ",
+        "userDefined": false
+      },
+      {
+        "text": "Labour Day",
+        "alias": "holiday",
+        "meta": "@holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3357d6db-b208-47b0-8786-359b6b391cca",
+    "data": [
+      {
+        "text": "check how many ",
+        "userDefined": false
+      },
+      {
+        "text": "days",
+        "alias": "unit",
+        "meta": "@unit-time",
+        "userDefined": true
+      },
+      {
+        "text": " left until ",
+        "userDefined": false
+      },
+      {
+        "text": "Columbus Day",
+        "alias": "holiday",
+        "meta": "@holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "513ce938-6384-4264-992c-e8e3262a74b6",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "days",
+        "alias": "unit",
+        "meta": "@unit-time",
+        "userDefined": true
+      },
+      {
+        "text": " until ",
+        "userDefined": false
+      },
+      {
+        "text": "Christmas",
+        "alias": "holiday",
+        "meta": "@holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8b55d5f-d984-4aee-8f1a-2eeeb3a0166c",
+    "data": [
+      {
+        "text": "number",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "days",
+        "alias": "unit",
+        "meta": "@unit-time",
+        "userDefined": false
+      },
+      {
+        "text": " until ",
+        "userDefined": false
+      },
+      {
+        "text": "Christmas",
+        "alias": "holiday",
+        "meta": "@holiday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90c8448c-6fe1-42f9-a8f7-2a90728a78c0",
+    "data": [
+      {
+        "text": "how long until ",
+        "userDefined": false
+      },
+      {
+        "text": "Thanksgiving",
+        "alias": "holiday",
+        "meta": "@holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6fa990f3-8f4e-4aa6-8f2e-e1e4c0d085ca",
+    "data": [
+      {
+        "text": "check how ",
+        "userDefined": false
+      },
+      {
+        "text": "many",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "months",
+        "alias": "unit",
+        "meta": "@unit-time",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " until next ",
+        "userDefined": false
+      },
+      {
+        "text": "Independence Day",
+        "alias": "holiday",
+        "meta": "@holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20b010e2-fec6-4e82-a8f1-5920a6a0b0d5",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "many",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "months",
+        "alias": "unit",
+        "meta": "@unit-time",
+        "userDefined": true
+      },
+      {
+        "text": " until ",
+        "userDefined": false
+      },
+      {
+        "text": "Easter",
+        "alias": "holiday",
+        "meta": "@holiday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98ed8abf-696c-4b93-b7c3-5435f912b350",
+    "data": [
+      {
+        "text": "count the ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "weeks",
+        "alias": "unit",
+        "meta": "@unit-time",
+        "userDefined": false
+      },
+      {
+        "text": " until ",
+        "userDefined": false
+      },
+      {
+        "text": "Valentine\u0027s Day",
+        "alias": "holiday",
+        "meta": "@holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1d6b676-abc6-48b2-b594-532f51ed649e",
+    "data": [
+      {
+        "text": "count ",
+        "userDefined": false
+      },
+      {
+        "text": "days",
+        "alias": "unit",
+        "meta": "@unit-time",
+        "userDefined": false
+      },
+      {
+        "text": " until ",
+        "userDefined": false
+      },
+      {
+        "text": "Thanksgiving",
+        "alias": "holiday",
+        "meta": "@holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3744c2c9-a35a-4383-84bc-5cb1ee6d1b14",
+    "data": [
+      {
+        "text": "tell me how ",
+        "userDefined": false
+      },
+      {
+        "text": "many",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "seconds",
+        "alias": "unit",
+        "meta": "@unit-time",
+        "userDefined": true
+      },
+      {
+        "text": " until ",
+        "userDefined": false
+      },
+      {
+        "text": "Halloween",
+        "alias": "holiday",
+        "meta": "@holiday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
