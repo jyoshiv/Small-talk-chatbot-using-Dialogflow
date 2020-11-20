@@ -1,0 +1,33 @@
+[
+  {
+    "value": "cold",
+    "synonyms": [
+      "cold",
+      "low",
+      "extremely cold",
+      "freezing",
+      "freezing cold"
+    ]
+  },
+  {
+    "value": "chilly",
+    "synonyms": [
+      "chilly"
+    ]
+  },
+  {
+    "value": "hot",
+    "synonyms": [
+      "hot",
+      "high",
+      "extremely hot"
+    ]
+  },
+  {
+    "value": "warm",
+    "synonyms": [
+      "warm",
+      "mild"
+    ]
+  }
+]
